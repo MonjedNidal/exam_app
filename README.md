@@ -1,6 +1,6 @@
 # exam_app
 
-A new Flutter project.
+Flutter basic true or false game.
 
 ## Getting Started
 
